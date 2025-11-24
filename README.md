@@ -1,4 +1,4 @@
-# Live Facial Expression Detection 😊
+# Live Facial Expression Detection
 
 ## Project Objective
 
@@ -32,13 +32,13 @@ Once it finds your face, it:
 
 ### Step 3: Emotion Recognition
 The AI model (built with **TensorFlow** and **EfficientNetB2**) looks at your face and predicts which of the 7 emotions you're showing:
-- 😊 Happy
-- 😢 Sad
-- 😠 Angry
-- 😲 Surprised
-- 😨 Fearful
-- 🤢 Disgusted
-- 😐 Neutral
+- Happy
+- Sad
+- Angry
+- Surprised
+- Fearful
+- Disgusted
+- Neutral
 
 ### Step 4: Display Results
 The emotion prediction is shown on your screen with a colored rectangle around your detected face.
